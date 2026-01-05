@@ -24,12 +24,7 @@ A modern TypeScript Node.js project template with essential development tools pr
 ### Using as Template
 
 1. **Create new repository from template:**
-   ```bash
-   # On GitHub, click "Use this template" button
-   # Or clone and remove git history:
-   git clone https://github.com/LiXuanqi/typescript-node-template.git my-project
-   cd my-project
-   ```
+   On GitHub, click "Use this template" button. See instruction [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
 
 2. **Install dependencies:**
    ```bash
